@@ -13,4 +13,4 @@ I create projects to learn and showcase my skills.
 ## Contact
 - 📧 y.meflah@esi-sba.dz  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yousra-meflah-05a993293/)  
-- 🌐 [Portfolio](https://yourusername.github.io)
+- 🌐 [Portfolio](https://yousrayouli.github.io/MyPortfolio/)
