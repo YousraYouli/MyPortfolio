@@ -507,6 +507,24 @@ box-shadow: 0 0 25px var(--main-color),
     flex-direction: column;
   }
 }
+@media (max-width: 768px) {  /* phone screens */
+  .home-content {
+    flex-direction: column;  /* stack text above image */
+    align-items: center;     /* center everything */
+    text-align: center;      /* center text */
+    gap: 2rem;               /* space between text and image */
+  }
+
+  .home-content .home-text {
+    width: 90%;              /* text takes almost full width */
+  }
+
+  .home-img img {
+    width: 80%;              /* image scales nicely */
+    max-width: 400px;        /* optional: prevent too big image */
+    height: auto;
+  }
+}
 /* ------------------------------------------------------- */
 
 /* THE PSUEDO CLASS CONTROLS THE FLIP ON MOUSEOVER AND MOUSEOUT */
